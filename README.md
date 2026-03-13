@@ -19,7 +19,7 @@ This project provides an end-to-end analysis of an automotive business, bridging
 4. **Voice of the Customer:** Integrated a sentiment analysis hierarchy to correlate product quality issues with overall customer satisfaction.
 
 ## 🔗 View the Project
-* **Dashboard Screenshot:** ![Automotive Sales & Service Quality Dashboard](Dashboard1.jpg)
+* **Dashboard Screenshot:** ![Automotive Sales & Service Quality Dashboard](Dashboard1.png)
 ![Automotive Sales & Service Quality Dashboard](Dashboard2.png)
 ---
 *This project highlights my ability to use enterprise-grade BI tools to connect sales data with operational quality metrics.*
